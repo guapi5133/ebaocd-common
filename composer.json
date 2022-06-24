@@ -1,0 +1,24 @@
+{
+    "name": "ebaocd/common",
+    "description": "common function",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XiuLuo",
+            "email": "5192412@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "eBaocd\\Common\\": "src/"
+        }
+    }
+}
