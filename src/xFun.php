@@ -633,9 +633,6 @@ class xFun
             'data' => !empty($data) ? self::fmt_num_str($data) : $data
         ];
 
-        // 日志标识，用作判断失败或成功的提示语。
-        Config::$output_error_code = ['code' => $arr['code'], 'msg' => $info];
-
         exit(json_encode($arr));
     }
 
