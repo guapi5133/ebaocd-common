@@ -1,5 +1,5 @@
 {
-    "name": "self-frame/ebaocd-common",
+    "name": "self-frame/common",
     "description": "common function",
     "type": "library",
     "require": {
