@@ -1,5 +1,5 @@
 {
-    "name": "guapi5133/ebaocd-common",
+    "name": "self-frame/ebaocd-common",
     "description": "common function",
     "type": "library",
     "require": {
